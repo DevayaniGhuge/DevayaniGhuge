@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DevayaniGhuge
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently pursuing my B-Tech 
+- 🌱 I completed my B-Tech 2024
+- I am currently working as a intern at Insta ict solution 
 - 💞️ I’m looking to collaborate on new opportunity
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
