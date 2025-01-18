@@ -2,8 +2,8 @@
 - 👀 I’m interested in full stack development
 - 🌱 I completed my B-Tech 2024
 - 💞️ I’m looking to collaborate on new opportunity
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ... devayanighughe882002@gamil.com
+- 😄 Pronouns: ... Devayani
 - ⚡ Fun fact: ...
 
 <!---
